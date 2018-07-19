@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Mourine Boyani](https://github.com/mourineboyani)
+- Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
 To start using this project use the following commands:
@@ -14,7 +14,7 @@ To start using this project use the following commands:
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2018 Mourine Boyani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
